@@ -2,7 +2,7 @@
 
 ### First-Year Computer Science Engineering Student | Aspiring Software Engineer
 
-Welcome to my GitHub profile! 🚀
+Welcome to my GitHub profile! 
 
 I'm a Computer Science Engineering student passionate about technology, software development, and exploring how innovative ideas can solve real-world problems.
 
@@ -23,15 +23,6 @@ I'm currently building my foundation in programming, exploring web development a
 - Participate in hackathons and collaborate with other developers
 - Contribute to open-source projects
 - Grow into a skilled software engineer
-
-### 🛠️ Technologies I'm Exploring
-
-*This section will grow as I learn and build.*
-
-- **Programming:** Python
-- **Web Development:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub, VS Code
-- **Areas of Interest:** AI, Web Development, Software Engineering
 
 ### 📌 What's on My GitHub?
 
